@@ -1,5 +1,5 @@
 html{background:linear-gradient(to bottom, red, gray) no-repeat}
-@font-face{font-family: 'Wonton';src: url('/Fonts/Wonton.ttf')}
+@font-face{font-family: 'Wonton';src: url('Fonts/Wonton.ttf')}
 body{font-family:Wonton}
 h1{text-align:center;margin-bottom:-20px}
 h2{margin-bottom:-5px}
